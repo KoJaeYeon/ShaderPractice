@@ -761,7 +761,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!135 &1247082320
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -934,6 +934,11 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 59b143470fd60aa49b60c013a6d0b0ce,
         type: 3}
       propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 59b143470fd60aa49b60c013a6d0b0ce,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1214,6 +1219,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetLight
+      objectReference: {fileID: 0}
+    - target: {fileID: 5464020904000456977, guid: d05f69fd6bc76bb459d1f0cbdfc84662,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
