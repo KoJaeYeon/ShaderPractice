@@ -395,7 +395,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!64 &685418981
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -501,7 +501,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!64 &694722917
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -656,7 +656,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!135 &837707666
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -842,7 +842,7 @@ Transform:
   m_GameObject: {fileID: 1027247454}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 35.606213, y: -3.7784753, z: 14.864975}
+  m_LocalPosition: {x: 19.3, y: -3.7784753, z: 12.6}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -866,7 +866,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!135 &1247082320
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1044,7 +1044,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 59b143470fd60aa49b60c013a6d0b0ce,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1287,7 +1287,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: f1ce32caa654bb64e962ebf85f669302,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.3864565
+      value: 18.44
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f1ce32caa654bb64e962ebf85f669302,
         type: 3}
@@ -1367,7 +1367,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!64 &1683233550
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1521,7 +1521,7 @@ PrefabInstance:
     - target: {fileID: 5464020904000456977, guid: d05f69fd6bc76bb459d1f0cbdfc84662,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1556,7 +1556,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!136 &1924158535
 CapsuleCollider:
   m_ObjectHideFlags: 0
